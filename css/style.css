@@ -1,0 +1,5 @@
+body{background-color: antiquewhite;
+    font-size:20px;}
+h2{color: black;
+    font-family:'lucia sans','lucida sans regular';}
+.container{display:flex;}
